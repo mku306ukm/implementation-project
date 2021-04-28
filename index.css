@@ -1,0 +1,28 @@
+
+.container{
+    width: 100%;
+    padding: 50px;
+}
+
+.header{
+    color: blue;
+    width: 600px;
+    margin: auto;
+     
+       
+}
+h2{
+    color: black;
+}
+p{
+  color: rgb(53, 50, 50);  
+}
+ 
+ ul{
+
+ }     
+
+ul ul{
+    list-style: outside;
+
+} 
